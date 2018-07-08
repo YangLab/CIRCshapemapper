@@ -5,7 +5,7 @@ circSHAPEmapper is a pipeline to analyze the circSHAPE-MaP data. Using this pipe
 A schematic flow shows the pipeline
 -------------------------------------
 
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/pipline.001.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/001.jpeg)
 
 Requirement
 ------------------------------------
@@ -22,7 +22,7 @@ Usage
 		-s SAM, --sam SAM  input the mapped sam file
 		-o OUT, --out OUT  output the single-end fastq file
 
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/pipline.002.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/002.jpeg)
 
 #### circSHAPEtrim
 
@@ -32,4 +32,4 @@ Usage
 		-i INPUT, --input INPUT sam file
 		-p PRIMER, --primer PRIMER primer file 
 		-o OUT, --out OUT    output file
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/pipline.003.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/003.jpeg)
