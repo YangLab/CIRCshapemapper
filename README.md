@@ -1,4 +1,4 @@
-CICRCshapemapper
+CIRCshapemapper
 ============================================
 CIRCshapemapper is a pipeline to analyze the circSHAPE-MaP data. Using this pipeline, you could product  a SHAPE reactivity file of circRNA, which was used for modeling RNA secondary structure.
 
