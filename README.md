@@ -22,7 +22,7 @@ Usage
 		-s SAM, --sam SAM  input the mapped sam file
 		-o OUT, --out OUT  output the single-end fastq file
 
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/002.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/002.jpg)
 
 #### CIRCshapeTrim
 
@@ -32,4 +32,4 @@ Usage
 		-i INPUT, --input INPUT sam file
 		-p PRIMER, --primer PRIMER primer file 
 		-o OUT, --out OUT    output file
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/003.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/003.jpg)
