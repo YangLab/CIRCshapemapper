@@ -15,7 +15,7 @@ The requirement of ShapeMapper2 installation please read the README.md in ShapeM
 
 Usage
 ----------------------------------
-#### circSHAPEsplit
+#### CIRCshapeSplit
 		usage: Split junction reads [-h] [-s SAM] [-o OUT]	
 		optional arguments:
 		-h, --help         show this help message and exit
@@ -24,7 +24,7 @@ Usage
 
 ![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/002.jpeg)
 
-#### circSHAPEtrim
+#### CIRCshapeTrim
 
 		usage: Trim primers from alignment file [-h] [-i INPUT] [-p PRIMER] [-o OUT]
 		optional arguments:
