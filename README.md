@@ -5,7 +5,7 @@ CIRCshapemapper is a pipeline to analyze the circSHAPE-MaP data. Using this pipe
 A schematic flow shows the pipeline
 -------------------------------------
 
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/001.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/manual/CIRCshapemapper pipeline.jpeg)
 
 Requirement
 ------------------------------------
