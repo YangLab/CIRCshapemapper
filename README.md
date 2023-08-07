@@ -72,8 +72,11 @@ File formate
 -p  filename   -- circRNA primer for trim;txt formate
 each primer in one line, including forward primers and reverse primers
 >TGTGATGGGGACATTGTTAT
+>
 >AACTTGCACCTGCCACAGTC
+>
 >ACAGTGTGAGTGTGTCCTGCACAATA
+>
 >ACAGTGGACCATGGGAGAATGCGGAC
 
 ACAGTG is a barcode for separate data. If your primers don't contain a barcode, just recode your primer is ok. 
@@ -85,10 +88,12 @@ include two files
 
 primer_pair_F.txt
 >TGTGATGGGGACATTGTTAT
+>
 >AACTTGCACCTGCCACAGTC
 
 primer_pair_R.txt
 >TGAGTGTGTCCTGCACAATA
+>
 >GACCATGGGAGAATGCGGAC
  
  
