@@ -33,22 +33,21 @@ Description:
 Usage:
 
     /data/rnomics6/nanfang/script/CIRCshapemapper_V2.sh -f circRNA.fa -t circRNA -p  circPrimer.txt -P primer_pair -N NAI_R1.fastq -n NAI_R2.fastq -D DC_R1.fastq -d DC_R2.fastq -U DMSO_R1.fastq -u DMSO_R2.fastq -M 1000 -o outDir
-Option:
-
- -f     -- circRNA fa file
- -t     -- target name in shape
- -p     -- circRNA primer for trim;txt formate
- -P		-- circRNA primer to generate new reference; txt formate
- -N     -- NAI samples R1
- -n     -- NAI samples R2
- -D     -- Denatured samples R1
- -d     -- Denatured samples R2
- -U     -- Untreated sample R1
- -u     -- Untreated sample R2
- -M     -- min-deep default 1000
- -o     -- output document
- -v     -- verbose mode, output command but out execute
- -h     -- help information
+	Option:
+ 	-f     -- circRNA fa file
+ 	-t     -- target name in shape
+ 	-p     -- circRNA primer for trim;txt formate
+ 	-P		-- circRNA primer to generate new reference; txt formate
+ 	-N     -- NAI samples R1
+	-n     -- NAI samples R2
+ 	-D     -- Denatured samples R1
+ 	-d     -- Denatured samples R2
+	-U     -- Untreated sample R1
+ 	-u     -- Untreated sample R2
+	-M     -- min-deep default 1000
+	-o     -- output document
+	-v     -- verbose mode, output command but out execute
+	-h     -- help information
 
 Version: 2.0
 
