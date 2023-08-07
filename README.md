@@ -37,7 +37,7 @@ Usage:
  	-f     -- circRNA fa file
  	-t     -- target name in shape
  	-p     -- circRNA primer for trim;txt formate
- 	-P		-- circRNA primer to generate new reference; txt formate
+ 	-P     -- circRNA primer to generate new reference; txt formate
  	-N     -- NAI samples R1
 	-n     -- NAI samples R2
  	-D     -- Denatured samples R1
