@@ -27,7 +27,8 @@ Usage
 ----------------------------------
 #### CIRCshapemapper_V2.sh
 Description:
-	CIRCshapemapper version 2 pipeline. Merge two primer product sequence. Suit for single circRNA. multipal circRNAs should run manully.
+	CIRCshapemapper version 2 pipeline. Merge two primer product sequences. Suit for single circRNA. multiple circRNAs should run respectively
+.
 
 Usage:
 
@@ -37,14 +38,14 @@ Option:
  -f     -- circRNA fa file
  -t     -- target name in shape
  -p     -- circRNA primer for trim;txt formate
- -P		-- circRNA primer for generate new reference;txt formate
+ -P		-- circRNA primer to generate new reference; txt formate
  -N     -- NAI samples R1
  -n     -- NAI samples R2
  -D     -- Denatured samples R1
  -d     -- Denatured samples R2
  -U     -- Untreated sample R1
  -u     -- Untreated sample R2
- -M     -- min-deep defualt 1000
+ -M     -- min-deep default 1000
  -o     -- output document
  -v     -- verbose mode, output command but out execute
  -h     -- help information
@@ -69,17 +70,17 @@ File formate
 ----------------------------------
 
 -p  filename   -- circRNA primer for trim;txt formate
-each primer in one line, include forward primers and reverse primers
+each primer in one line, including forward primers and reverse primers
 >TGTGATGGGGACATTGTTAT
 >AACTTGCACCTGCCACAGTC
 >ACAGTGTGAGTGTGTCCTGCACAATA
 >ACAGTGGACCATGGGAGAATGCGGAC
 
-ACAGTG is barcode for seperate data. If your primer don't contain barcode, just recode your primer is ok. 
+ACAGTG is a barcode for separate data. If your primers don't contain a barcode, just recode your primer is ok. 
 
 
 
--P	primer_pair	-- circRNA primer for genarate new reference;txt formate 
+-P	primer_pair	-- circRNA primer for generate new reference;txt formate 
 include two files
 
 primer_pair_F.txt
