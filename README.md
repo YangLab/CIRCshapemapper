@@ -1,6 +1,6 @@
 CIRCshapemapper v2 
 ============================================
-CIRCshapemapper2  is a pipeline to analyze the circSHAPE-MaP data. Using this pipeline, you could product a SHAPE reactivity file of circRNA, which was used for modeling RNA secondary structure.
+CIRCshapemapper2  is a pipeline to analyze the circSHAPE-MaP data. Using this pipeline, you could produce a SHAPE reactivity file of circRNA, which was used for modeling RNA secondary structure.
 
 A schematic flow shows the pipeline
 -------------------------------------
@@ -32,7 +32,7 @@ Description:
 
 Usage:
 
-    /data/rnomics6/nanfang/script/CIRCshapemapper_V2.sh -f circRNA.fa -t circRNA -p  circPrimer.txt -P primer_pair -N NAI_R1.fastq -n NAI_R2.fastq -D DC_R1.fastq -d DC_R2.fastq -U DMSO_R1.fastq -u DMSO_R2.fastq -M 1000 -o outDir
+    CIRCshapemapper_V2.sh -f circRNA.fa -t circRNA -p  circPrimer.txt -P primer_pair -N NAI_R1.fastq -n NAI_R2.fastq -D DC_R1.fastq -d DC_R2.fastq -U DMSO_R1.fastq -u DMSO_R2.fastq -M 1000 -o outDir
 	Option:
  	-f     -- circRNA fa file
  	-t     -- target name in shape
