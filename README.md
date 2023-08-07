@@ -5,7 +5,7 @@ CIRCshapemapper2  is a pipeline to analyze the circSHAPE-MaP data. Using this pi
 A schematic flow shows the pipeline
 -------------------------------------
 
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/CIRCshapemapper2/CIRCshapemapper v2 pipeline.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/CIRCshapemapper%20v2/CIRCshapemapper v2 pipeline.jpeg)
 
 
 Requirement
@@ -62,7 +62,7 @@ Version: 2.0
 		-i INPUT, --input INPUT sam file
 		-p PRIMER, --primer PRIMER primer file 
 		-o OUT, --out OUT    output file
-![image](https://github.com/YangLab/circSHAPEmapper/blob/master/CIRCshapemapper2/003.jpeg)
+![image](https://github.com/YangLab/circSHAPEmapper/blob/master/CIRCshapemapper%20v2/003.jpeg)
 
 
 File formate
