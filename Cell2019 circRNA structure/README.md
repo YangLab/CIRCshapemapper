@@ -1,4 +1,4 @@
-# Secondary structure of 34 circRNAs secondary structure in PA1 cell line 
+# Secondary structure of 34 circRNAs in PA1 cell line 
 ============================================
 
 All structures are modeled by RNAfold with SHAPE value from circSHAPE-MaP data. 
